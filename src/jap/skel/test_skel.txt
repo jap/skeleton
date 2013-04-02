@@ -1,0 +1,5 @@
+ >>> from jap.skel import skel
+
+Run a very simple test which succeeds::
+ >>> skel.b()
+ 15
